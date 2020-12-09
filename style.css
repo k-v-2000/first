@@ -2,18 +2,18 @@
 $black: #34435E;
 $white: #ffffff;
 
-body {
+.body {
   margin: 0;
   padding: 0 4em;
 }
 
-main {
+.main {
   min-width: 300px;
   max-width: 500px;
   margin: auto;
 }
 
-p {
+.p {
   font-size: 1em;
   line-height: 1.75em;
   border-top: 3px solid;
